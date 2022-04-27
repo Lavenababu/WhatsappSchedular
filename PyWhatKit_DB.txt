@@ -1,0 +1,73 @@
+Date: 31/1/2022
+Time: 13:23
+Phone Number: +91 9168439994
+Message: Hello....
+--------------------
+Date: 31/1/2022
+Time: 13:25
+Phone Number: +91 9168439994
+Message: Hello....
+--------------------
+Date: 31/1/2022
+Time: 13:27
+Phone Number: +91 79778 07180
+Message: Hello....from Pycharm
+--------------------
+Date: 26/2/2022
+Time: 15:22
+Phone Number: +91 91684 39994
+Message: This ia automated msg from python
+--------------------
+Date: 26/2/2022
+Time: 19:16
+Phone Number: +91 91684 39994
+Image: C:/Users/Lavena/Downloads/poster.png
+Caption: Testing....
+--------------------
+Date: 26/2/2022
+Time: 19:18
+Phone Number: +91 91684 39994
+Image: C:/Users/Lavena/Downloads/poster.png
+Caption: Testing....
+--------------------
+Date: 26/2/2022
+Time: 19:18
+Phone Number: +91 91684 39994
+Message: This is a automated msg from python
+--------------------
+Date: 3/3/2022
+Time: 21:41
+Phone Number: +91 91684 39994
+Message: This is a automated msg from python
+--------------------
+Date: 3/3/2022
+Time: 21:45
+Phone Number: +91 79778 07180
+Message: Hello....from Pycharm
+--------------------
+Date: 5/3/2022
+Time: 14:56
+Phone Number: +91 91684 39994
+Message: Hello....from Pycharm
+--------------------
+Date: 5/3/2022
+Time: 15:33
+Phone Number: +91 91684 39994
+Message: Lavena...
+--------------------
+Date: 5/3/2022
+Time: 22:20
+Phone Number: +91 7977807180
+Message: hii...
+--------------------
+Date: 8/3/2022
+Time: 22:44
+Phone Number: +91 91684 39995
+Message: h
+--------------------
+Date: 8/3/2022
+Time: 23:7
+Phone Number: +91 91684 39994
+Image: C:/Users/Lavena/Downloads/poster.png
+Caption: Testing....
+--------------------
