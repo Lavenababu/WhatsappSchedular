@@ -71,3 +71,8 @@ Phone Number: +91 91684 39994
 Image: C:/Users/Lavena/Downloads/poster.png
 Caption: Testing....
 --------------------
+Date: 27/4/2022
+Time: 20:44
+Group ID: https://chat.whatsapp.com/GbCCADyQW6P9jbamRfPNop
+Message: Hello this is automated msg
+--------------------

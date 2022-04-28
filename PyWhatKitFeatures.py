@@ -4,9 +4,9 @@ import win32clipboard
 # Only one of these features will at a time
 
 # schedule msg
-# pywhatkit.sendwhatmsg("+91 79778 07180",
-#                       "Hello....from Pycharm",
-#                       13, 28)
+pywhatkit.sendwhatmsg("+91 79778 07180",
+                      "Hello....from Pycharm",
+                      13, 28)
 
 # play in yt
 # pywhatkit.playonyt("https://www.youtube.com/watch?v=jrVsBjol0BE")
@@ -21,3 +21,7 @@ import win32clipboard
 #                           "Testing....")
 
 # pywhatkit.show_history()
+
+# pywhatkit.sendwhatmsg_to_group(group_id="https://chat.whatsapp.com/GbCCADyQW6P9jbamRfPNop",
+#                                message="Hello this is automated msg",
+#                                time_hour=20, time_min=46)
