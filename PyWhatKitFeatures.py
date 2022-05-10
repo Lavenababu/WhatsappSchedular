@@ -4,9 +4,9 @@ import win32clipboard
 # Only one of these features will at a time
 
 # schedule msg
-pywhatkit.sendwhatmsg("+91 79778 07180",
-                      "Hello....from Pycharm",
-                      13, 28)
+pywhatkit.sendwhatmsg("+91 91684 39994",
+                      "Hello....from Pywhatkit",
+                      23, 24)
 
 # play in yt
 # pywhatkit.playonyt("https://www.youtube.com/watch?v=jrVsBjol0BE")
